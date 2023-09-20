@@ -7,9 +7,9 @@ enableRobotsTXT = true
 timeZone = "America/Los_Angeles"
 
 [params]
-  title = "My Gallery"
+  title = "DRC EVENTS"
   description = "All  1st Supply Battalion Event photos"
-  defaultTheme = "dark"
+  defaultTheme = "light"
 
 [author]
   name = "John Hashim"
@@ -55,6 +55,6 @@ timeZone = "America/Los_Angeles"
 
 [menu]
 [[menu.footer]]
-  name = "GitHub"
-  url = "https://github.com/nicokaiser/hugo-theme-gallery/"
+  name = "DRC"
+  url = "/"
   weight = 3

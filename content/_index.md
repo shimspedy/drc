@@ -1,7 +1,7 @@
 ---
-title: Hugo Gallery
+title: DRC EVENTS 
 linktitle: Home
-description: An example site for hugo-theme-gallery. Images from Unsplash.
+description: Access all 1st Supply Battalion Event Photos 
 #lastmod: 2023-07-05
 featured_image: martin-martz-wRuhOOaG-Z4-unsplash.jpg # default: first image in this directory
 # featured_image on the home page is used for OpenGraph cards, etc.
