@@ -1,18 +1,18 @@
-title = "Gallery"
+title = "DRC"
 languageCode = "en-us"
-copyright = "© Your Name"
+copyright = "© 1st Supply BN"
 disableKinds = ["taxonomy", "term"]
 defaultContentLanguage = "en"
 enableRobotsTXT = true
-timeZone = "Europe/Berlin"
+timeZone = "America/Los_Angeles"
 
 [params]
   title = "My Gallery"
-  description = "Example site for hugo-theme-gallery"
+  description = "All  1st Supply Battalion Event photos"
   defaultTheme = "dark"
 
 [author]
-  name = "Your Name"
+  name = "John Hashim"
 
 [outputs]
   page = ["HTML"]

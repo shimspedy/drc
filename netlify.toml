@@ -1,0 +1,12 @@
+[context.production.environment]
+  HUGO_VERSION = "0.112.0"
+
+[context.deploy-preview]
+  command = "hugo mod npm pack"
+  [context.deploy-preview.environment]
+    HUGO_VERSION = "0.112.0"
+
+[context.branch-deploy]
+  command = "hugo mod npm pack"
+  [context.branch-deploy.environment]
+    HUGO_VERSION = "0.112.0"
