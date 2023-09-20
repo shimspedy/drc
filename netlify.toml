@@ -2,7 +2,7 @@
   HUGO_VERSION = "0.112.0"
 
 [context.deploy-preview]
-  command = "hugo mod npm pack"
+  command = "hugo mod get"
   [context.deploy-preview.environment]
     HUGO_VERSION = "0.112.0"
 
