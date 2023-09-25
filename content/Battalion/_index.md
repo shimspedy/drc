@@ -1,6 +1,6 @@
 ---
-title: Education
-description:  education and learning
+title: Battalion Events
+description:  Battalion 
 featured_image: hike.webp
 weight: 3
 
