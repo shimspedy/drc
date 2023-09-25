@@ -1,6 +1,6 @@
 ---
-title: PT Events
-description: Exotic wildlife, pet kittens — and everything in between. Uncover the beauty of the animal kingdom through your screen.
+title: Physical training
+description: BN PT, hikes and BN Run
 featured_image: pt.jpeg
 weight: 1
 

@@ -1,6 +1,6 @@
 ---
-title: Field Meet Events
-description: Exotic wildlife, pet kittens — and everything in between. Uncover the beauty of the animal kingdom through your screen.
+title: Field Meet
+description: BN field meet 
 featured_image: field.webp
 weight: 3
 
