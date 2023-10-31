@@ -1,5 +1,5 @@
 ---
-title: Field Meet
+title: Field Exercises
 description: BN field meet 
 featured_image: field.webp
 weight: 3
